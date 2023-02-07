@@ -1,7 +1,7 @@
 Here we go 
 nice
 so code
-very compsci
+very oof
 ready
 steady
 go
